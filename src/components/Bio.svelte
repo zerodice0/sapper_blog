@@ -8,9 +8,10 @@
     width: 100px;
     height: 100px;
     border-radius: 100px;
-    /* border: 3px solid #fd6378; */
+    border: 3px solid #fd6378;
     display: block;
     margin-right: 20px;
+    object-fit: cover;
   }
 
   p {
@@ -19,11 +20,8 @@
 </style>
 
 <div>
-  <img src="profile-pic.png" alt="Maxi Ferreira">
+  <img src="profile-pic.jpg" alt="Maxi Ferreira">
   <p>
-    Hi, I'm <strong>Maxi</strong>. I'm a software engineer and data scientist from Córdoba, Argentina.
-    You can follow me on <a href="https://www.twitter.com/Charca" target="_blank">Twitter</a>,
-    see some of my work on <a href="https://www.github.com/Charca" target="_blank">GitHub</a>,
-    or read more about me on <a href="https://www.maxiferreira.com" target="_blank">my website</a>.
+    <strong>검은곰</strong>입니다. 반가워요! :)
   </p>
 </div>
