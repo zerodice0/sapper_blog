@@ -30,11 +30,11 @@
 </style>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>Posts</title>
 </svelte:head>
 
 <div class="container">
-  <h1>Blog</h1>
+  <h1>Posts</h1>
   {#each posts as post, index}
     {#if index}
       <hr />

@@ -20,8 +20,9 @@
 </style>
 
 <div>
-  <img src="profile-pic.jpg" alt="Maxi Ferreira">
+  <img src="profile-pic.jpg" alt="BlackBear">
   <p>
     <strong>검은곰</strong>입니다. 반가워요! :)
+    블로그는 차근차근 업데이트 중이에요! 잘 부탁드려요!
   </p>
 </div>

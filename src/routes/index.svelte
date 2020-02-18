@@ -61,13 +61,13 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>BlackBear's Dev blog!</title>
 </svelte:head>
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
-    <p>Check out the docs on <a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a> to get started.</p>
+    <h1>BlackBear's Dev blog!</h1>
+    <p>검은곰의 개발 관련 블로그입니다. 아직 준비중이라 볼 건 없지만, 잘 부탁드려요!</p>
   </div>
 
   <figure>
