@@ -1,6 +1,7 @@
 ---
-title: Sapper, Github page, 그리고 Blog. 👋
+title: Sapper, 그리고 Blog template. 👋
 date: "2020-02-10T21:16:00.000Z"
+description: "Sapper를 사용하여 만들어진 템플릿 브랜치를 이용해, 블로그를 생성하여 nettify로 배포하면서 겪은 내용에 대한 정리."
 ---
 
 # Hello, sapper!
